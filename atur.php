@@ -1,17 +1,17 @@
 <?php
 //                    Pengaturan 
 
-$cookie =  '621624566741876'; //cookie Kamu
-$target =  'sb=-mZsZBzvTglfzTTVUH71ooBH; datr=k_rSZOqlVEZ9Yyij8_FuU2nt; locale=tl_PH; c_user=100063662617717; xs=2%3AybfShTsOopRrMw%3A2%3A1693878385%3A-1%3A15062; usida=eyJ2ZXIiOjEsImlkIjoiQXMwaHAxZjExbG84MzQiLCJ0aW1lIjoxNjkzODc4NTMxfQ%3D%3D; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1693878559027%2C%22v%22%3A1%7D; m_page_voice=100063662617717; m_pixel_ratio=1; x-referer=eyJyIjoiL2hvbWUucGhwIiwiaCI6Ii9ob21lLnBocCIsInMiOiJtIn0%3D; wd=524x923; fr=0EP62LGgdwpUe3re3.AWW4cjhtHCEEF58-7ramp93pDFw.Bk9Xlg.pa.GT2.0.0.Bk9o11.AWW8HBcW_nI'; // Target Post
+$cookie =  'sb=-mZsZBzvTglfzTTVUH71ooBH; datr=k_rSZOqlVEZ9Yyij8_FuU2nt; locale=tl_PH; c_user=100063662617717; xs=2%3AybfShTsOopRrMw%3A2%3A1693878385%3A-1%3A15062; usida=eyJ2ZXIiOjEsImlkIjoiQXMwaHAxZjExbG84MzQiLCJ0aW1lIjoxNjkzODc4NTMxfQ%3D%3D; m_page_voice=100063662617717; m_pixel_ratio=1; x-referer=eyJyIjoiL2hvbWUucGhwIiwiaCI6Ii9ob21lLnBocCIsInMiOiJtIn0%3D; fr=0EP62LGgdwpUe3re3.AWUxCT_pUzW_59ZbvBvTWXSsNFk.Bk9Xlg.pa.GT2.0.0.Bk9o4s.AWVyP-ojWcc; wd=1217x923; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1693879856530%2C%22v%22%3A1%7D'; //cookie Kamu
+$target =  '621624566741876'; // Target Post
 
 $teks = '" MAU AIR PURIFIER "
 #giveawaykobe
-#giveawaykobe
 
+Ikutan Yuk!
 @[100002218220611:]
 @[100065512428873:]
 @[100042962482913:]
-'; 
+'.$emoticon.' Username IG: @ngatmuri06'; 
 /*
             pakai '.$angka_format.' untuk menampilkan Nomor
             pakai '.$emoticon.' untuk menampilkan Emoji
