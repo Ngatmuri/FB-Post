@@ -1,2 +1,4 @@
 # FB-Post
-# Post Facebook
+ Post Facebook
+ - Post Komen
+ - Post Status
